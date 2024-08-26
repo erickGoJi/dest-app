@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace destapp.apiClient
+{
+    public static class Constants
+    {
+        //CMS
+        public static string TOKEN_CMS = "xRGRwCyK3Bp7qs8ukhd3HjcYU9FK7zpFNRdjnEefkqen3wREmS";
+        public static string API_BASE_URL = "http://dev-cms.destapp.com/"; //"https://cms.destapp.com/"
+        //Controllers Destapp
+        public static string CONTROLLERS_DESTAPP = "http://dev-controllers.destapp.com";//"https://controllers.destapp.com";
+        //NOTIFICATION FIREBASE
+        public static readonly string API_URL_BASE_FCM = "https://fcm.googleapis.com";
+        public static readonly string FCM_SEND = "/fcm/send";
+        public static readonly string SERVER_KEY = "key=AAAAfpXsMi4:APA91bEZ4TA2XeSz3ZZGerUmXefBothf4AeNEn0AKJfe14AZ21Z6tPwzPohowXsNIT7n1OoEas0vnEFBZpSzxmMXd4EPZmIrYdhIkOJnrq5c4ap2EEby3lLkaN0S7r8FMQ98O3fuOGOv";
+    }
+}

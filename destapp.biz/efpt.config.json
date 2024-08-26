@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"Db_DestappContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":false,"OutputPath":"Entities","ProjectRootNamespace":"destapp.biz","SelectedToBeGenerated":2,"Tables":[{"HasPrimaryKey":true,"Name":"dbo.user"}],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":true}

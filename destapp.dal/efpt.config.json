@@ -1,0 +1,145 @@
+﻿{
+   "ContextClassName": "Db_DestappContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "db_context",
+   "ProjectRootNamespace": "destapp.dal",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 1,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[brands_product]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[catalogo_juegos]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[catalogo_juegos_imagenes]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[catalogo_juegos_thumbnails]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[cities_state]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[coins_user_history]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[coins_users]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[datos_usuarios]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[estados_pais]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[exchange_product_history]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[gender_db]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[gustos_usuarios]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[intentos_trivia]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[intereses_trivias]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[interest_reward]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[juegos_big_score_usuario_partida]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[juegos_usuarios_partidas]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[logros_usuarios]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[notification]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Product]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ProductCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[recompensas_trivias_historial]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[respuestas_intento_trivia]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[scann_codebar_history]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[scann_img_history]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Sessions]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tickets_user_history]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[tickets_users]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[type_event_scann_img]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[type_transaction_catalog]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[users_messages]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false
+}

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "destapp.api", "destapp.api\destapp.api.csproj", "{4957D857-2468-4B1B-920C-C56AF3B3B1BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "destapp.biz", "destapp.biz\destapp.biz.csproj", "{C38CD1BD-C4BF-4183-8624-92592BCE5579}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "destapp.dal", "destapp.dal\destapp.dal.csproj", "{B5F01E1B-5320-4637-8A14-8540ED978A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "destapp.apiClient", "destapp.apiClient\destapp.apiClient.csproj", "{60D90794-7F85-4AE5-B462-101A3F4A95F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4957D857-2468-4B1B-920C-C56AF3B3B1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4957D857-2468-4B1B-920C-C56AF3B3B1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4957D857-2468-4B1B-920C-C56AF3B3B1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4957D857-2468-4B1B-920C-C56AF3B3B1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38CD1BD-C4BF-4183-8624-92592BCE5579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38CD1BD-C4BF-4183-8624-92592BCE5579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38CD1BD-C4BF-4183-8624-92592BCE5579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38CD1BD-C4BF-4183-8624-92592BCE5579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F01E1B-5320-4637-8A14-8540ED978A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F01E1B-5320-4637-8A14-8540ED978A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F01E1B-5320-4637-8A14-8540ED978A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F01E1B-5320-4637-8A14-8540ED978A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D90794-7F85-4AE5-B462-101A3F4A95F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D90794-7F85-4AE5-B462-101A3F4A95F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D90794-7F85-4AE5-B462-101A3F4A95F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D90794-7F85-4AE5-B462-101A3F4A95F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A0658C-A631-43A6-A6A1-7E1F9945D144}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://minimalistdev.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = destapp.api\\destapp.api.csproj
+		SccProjectName1 = destapp.api
+		SccLocalPath1 = destapp.api
+		SccProjectUniqueName2 = destapp.biz\\destapp.biz.csproj
+		SccProjectName2 = destapp.biz
+		SccLocalPath2 = destapp.biz
+		SccProjectUniqueName3 = destapp.dal\\destapp.dal.csproj
+		SccProjectName3 = destapp.dal
+		SccLocalPath3 = destapp.dal
+		SccProjectUniqueName4 = destapp.apiClient\\destapp.apiClient.csproj
+		SccProjectName4 = destapp.apiClient
+		SccLocalPath4 = destapp.apiClient
+	EndGlobalSection
+EndGlobal
